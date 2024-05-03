@@ -75,6 +75,10 @@ id="cy-effective-orcid-url"
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10687503.svg)](https://doi.org/10.5281/zenodo.10687503)
 
+___
+
+## <p style="text-align: center;">* Please cite this [repo](https://doi.org/10.5281/zenodo.10687503) and [paper](https://doi.org/10.1007/s11119-024-10139-8) in case of use *</p> <br> <p style="text-align: center;">we will try to keep track of the utilization of this dataset
+
 
 # The dataset
 This dataset contains RGB (`.png`) and Depth (`.npy`) images togheter with annotations (`.json`) and ground truth data.\
