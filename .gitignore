@@ -1,9 +1,7 @@
 venv/
 .venv/
 TODOs.md
-dataset_*/
-dataset_modified*/
-notebook/data_conversion.ipynb
+dataset/
 
 
 # Byte-compiled / optimized / DLL files
